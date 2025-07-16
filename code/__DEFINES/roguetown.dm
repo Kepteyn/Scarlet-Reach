@@ -132,6 +132,7 @@
     /datum/species/human/halfelf,\
     /datum/species/demihuman,\
     /datum/species/dwarf/mountain,\
+	/datum/species/dracon,\
 
 #define RACES_NEUTRAL \
     /datum/species/construct/metal,\
@@ -146,7 +147,6 @@
     /datum/species/anthromorph,\
     /datum/species/tabaxi,\
     /datum/species/lizardfolk,\
-    /datum/species/dracon,\
     /datum/species/akula,\
 
 #define RACES_DESPISED \
